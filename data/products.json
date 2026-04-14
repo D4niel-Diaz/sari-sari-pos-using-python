@@ -1,0 +1,32 @@
+[
+    {
+        "product_id": "1",
+        "name": "Coca-Cola 350ml",
+        "price": 22.0,
+        "stock": 50
+    },
+    {
+        "product_id": "2",
+        "name": "Lucky Me Pancit Canton",
+        "price": 15.0,
+        "stock": 97
+    },
+    {
+        "product_id": "3",
+        "name": "Bear Brand Milk 300g",
+        "price": 85.0,
+        "stock": 30
+    },
+    {
+        "product_id": "4",
+        "name": "Marlboro Red",
+        "price": 12.0,
+        "stock": 200
+    },
+    {
+        "product_id": "5",
+        "name": "Sky Flakes 10s",
+        "price": 18.0,
+        "stock": 75
+    }
+]

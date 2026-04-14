@@ -1,0 +1,15 @@
+[
+    {
+        "transaction_id": "TXN0001",
+        "date": "2026-04-14 23:38:09",
+        "items": [
+            {
+                "product_id": "2",
+                "name": "Lucky Me Pancit Canton",
+                "quantity": 3,
+                "subtotal": 45.0
+            }
+        ],
+        "total": 45.0
+    }
+]
